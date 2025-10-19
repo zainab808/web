@@ -79026,7 +79026,7 @@ p=A.ah(a9,30,a9)
 o=t.l7
 k=J.qH(3,o)
 for(n=a8.a,m=n.d,l=a8.b.a,j=l<990,i=l<1090,h=l<1116,d=0;d<3;++d){if(h)g=j?250:300
-else g=360
+else g=330
 f=A.Y(b3)
 e=new A.ad(5,5)
 c=i?300:390
@@ -79052,7 +79052,7 @@ c.push(new A.ed(0,0,0,0,a9,a9,A.aS(a9,new A.fv(B.S,a9,a9,new A.cw(B.d1,A.aU(A.b(
 g=A.ah(a9,20,a9)
 k=J.qH(3,o)
 for(o=l<1100,d=0;d<3;++d){if(h)l=j?250:300
-else l=360
+else l=330
 f=A.Y(b3)
 e=new A.ad(5,5)
 c=o?300:390
